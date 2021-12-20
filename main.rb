@@ -1,5 +1,4 @@
 require './human'
-require './thinkable'
 
 tanaka_name = Human.new('田中 太郎',25,'電車')
 tanaka_name.say
